@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Obed Mensah
 
-🎓 **Telecommunication Engineering Student** | 📊 **Aspiring Data Scientist & Analyst**  
+🎓 **Telecommunication Engineering Student** | 📊 **Data Scientist & Analyst**  
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15)
 
 ---
