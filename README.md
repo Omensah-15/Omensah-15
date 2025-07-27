@@ -1,6 +1,6 @@
 # Obed Mensah  
 🎓 Telecommunication Engineering Student | 📊 Data Scientist & Analyst  
-📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15)
+📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15) | 📞 +233 25 755 6147
 
 ## About Me  
 Data professional with hands-on experience in ML, analytics, and BI. Skilled in detecting fraud, analyzing customer behavior, monitoring network anomalies, and building dashboards for business insights.
@@ -18,5 +18,3 @@ Data professional with hands-on experience in ML, analytics, and BI. Skilled in 
 - [Sentiment Analysis](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) – NLP on customer reviews.  
 - **Power BI Sales Dashboard** *(Coming Soon)* – Visualizes product and regional sales performance.
 
-## Contact  
-📧 heavenzlebron7@gmail.com | 📞 +233 25 755 6147  
