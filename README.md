@@ -16,6 +16,6 @@ Data professional with hands-on experience in ML, analytics, and BI. Skilled in 
 - [Customer Churn Prediction](https://github.com/Omensah-15/CustomerChurnPrediction) – Flags at-risk customers with ML models.  
 - [Network Anomaly Detection](https://github.com/Omensah-15/NetworkTrafficandAnamolyDetection) – Detects unusual patterns in telecom data.  
 - [Sentiment Analysis](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) – NLP on customer reviews.
-- [Banking Transaction Dashboard] – Built with Power BI to visualize transaction trends, failures, and network impact using key KPIs.  
+- [Banking Transaction Dashboard](https://github.com/Omensah-15/Bank_Transcaction_Insights) – Built with Power BI to visualize transaction trends, failures, and network impact using key KPIs.  
 - **Power BI Sales Dashboard** *(Coming Soon)* – Visualizes product and regional sales performance.
 
