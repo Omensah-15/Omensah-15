@@ -5,27 +5,11 @@
 ## About Me  
 Data professional with hands-on experience in ML, analytics, and BI. Skilled in detecting fraud, analyzing customer behavior, monitoring network anomalies, and building dashboards for business insights.
 
-## 🛠️ Skills
-
-### 👨🏾‍💻 Programming Languages  
-- **Python** – Primary language for data science, analytics, and automation  
-- **SQL** – Efficient in querying, joining, and manipulating relational data  
-
-### 📊 Data Analysis & Machine Learning  
-- **Pandas**, **NumPy** – Data wrangling, cleaning, and numerical computation  
-- **Scikit-learn** – Supervised and unsupervised ML algorithms, model evaluation  
-- **Power BI**, **Excel** – Business intelligence, dashboards, KPIs, and reporting  
-
-### 📈 Data Visualization  
-- **Matplotlib** – Custom plots for exploratory and presentation-ready visuals  
-- **Power BI** – Interactive dashboards for decision-making  
-- **Excel** – Charts, pivot tables, and performance tracking  
-
-### 🧰 Tools & Environments  
-- **Jupyter Notebook** – Rapid prototyping, visual storytelling with code  
-- **Visual Studio Code (VS Code)** – Main development environment  
-- **Git** – Version control and collaboration  
-
+## Skills  
+**Languages**: Python, SQL  
+**ML/Analytics**: Scikit-learn, Pandas, NumPy  
+**Visualization**: Power BI, Excel, Matplotlib  
+**Tools**: Git, Jupyter, VS Code
 
 ## Projects  
 - [Fraud Detection Pipeline](https://github.com/Omensah-15/fraud-detection-pipeline) – Classifies transactions with 90%+ accuracy.  
