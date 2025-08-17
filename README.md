@@ -3,7 +3,7 @@
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15) | 📞 +233 25 755 6147
 
 ## About Me  
-Data professional with hands-on experience in ML, analytics, and BI. Skilled in detecting fraud, analyzing customer behavior, monitoring network anomalies, and building dashboards for business insights.
+Data professional with hands-on experience in Machine Learning, Data Analysis, Risk & Fraud Analytics, and Business Intelligence. Skilled in detecting fraud, assessing credit and market risks, analyzing customer behavior, monitoring network anomalies, and building interactive dashboards for actionable business insights.
 
 ## Skills  
 **Languages**: Python, SQL  
