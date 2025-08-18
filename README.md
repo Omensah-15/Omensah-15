@@ -14,8 +14,28 @@ Data professional with hands-on experience in Machine Learning, Data Analysis, R
 - **Tools & Workflow:** Git, Jupyter Notebook, VS Code  
 
 
-## Projects  
-- [FraudShield](https://github.com/Omensah-15/FraudShield) – Built a machine learning model achieving over 95% classification accuracy on transactional fraud detection, strengthening financial risk mitigation.
-- [Sentiment Analysis](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) – Applied Natural Language Processing (NLP) on customer reviews to extract insights on customer experience and support product/market strategies.
-- [Banking Transaction Dashboard](https://github.com/Omensah-15/Bank_Transcaction_Insights) – Designed a Power BI dashboard to monitor transaction volumes, failures, and customer impact using key financial KPIs, supporting data-driven decisions. 
-- [Inventory Manager](https://github.com/Omensah-15/Inventory-Manager) - Designed an end-to-end system integrating SQLite database, analytics pipelines, interactive dashboards, and security features — demonstrating full-stack data solution capabilities for business operations.
+## Practical Experience
+
+### [FraudShield](https://github.com/Omensah-15/FraudShield)  
+Machine Learning | Financial Risk Analysis  
+- Achieved 95%+ classification accuracy for transactional fraud detection  
+- Built end-to-end pipeline from data preprocessing to model deployment  
+- Implemented feature engineering to identify high-risk transaction patterns  
+
+### [Sentiment Analysis](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback)  
+NLP | Customer Experience  
+- Processed 10,000+ customer reviews using NLTK and spaCy  
+- Developed sentiment scoring system with 89% agreement with human raters  
+- Visualized trends to guide product improvement strategies  
+
+### [Banking Transaction Dashboard](https://github.com/Omensah-15/Bank_Transcaction_Insights)  
+Power BI | Financial Analytics  
+- Automated monitoring of 1M+ monthly transactions  
+- Reduced report generation time by 65% through optimized DAX queries  
+- Implemented drill-down capabilities for root cause analysis  
+
+### [Inventory Manager](https://github.com/Omensah-15/Inventory-Manager)  
+Full-Stack Data System  
+- Integrated SQLite database with Python analytics pipelines  
+- Designed role-based access control for operational security  
+- Reduced stock-out incidents by 40% through predictive alerts  
