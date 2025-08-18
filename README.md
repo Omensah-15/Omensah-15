@@ -5,11 +5,14 @@
 ## About Me  
 Data professional with hands-on experience in Machine Learning, Data Analysis, Risk & Fraud Analytics, and Business Intelligence. Skilled in detecting fraud, assessing credit and market risks, analyzing customer behavior, monitoring network anomalies, and building interactive dashboards for actionable business insights.
 
-## Skills  
-**Languages**: Python, SQL  
-**ML/Analytics**: Scikit-learn, Pandas, NumPy  
-**Visualization**: Power BI, Excel, Matplotlib  
-**Tools**: Git, Jupyter, VS Code
+
+## Technical Skills  
+
+- **Programming & Databases:** Python, SQL  
+- **ML & Data Analytics:** Scikit-learn, Pandas, NumPy  
+- **Visualization & BI:** Power BI, Excel, Matplotlib  
+- **Tools & Workflow:** Git, Jupyter Notebook, VS Code  
+
 
 ## Projects  
 - [FraudShield](https://github.com/Omensah-15/FraudShield) – Built a machine learning model achieving over 95% classification accuracy on transactional fraud detection, strengthening financial risk mitigation.
