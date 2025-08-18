@@ -17,13 +17,13 @@ Data professional with hands-on experience in Machine Learning, Data Analysis, R
 ## Practical Experience
 
 [**FraudShield**](https://github.com/Omensah-15/FraudShield) | Risk & Fraud Analytics |                            
-Developed machine learning system with 95%+ accuracy for fraud detection. Built end-to-end data pipelines and deployed production-ready models. Implemented feature engineering for high-risk pattern identification. Optimized performance via hyperparameter tuning and ensemble methods.
+Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data pipelines, applied feature engineering, and optimized models with hyperparameter tuning and ensembles.
 
 [**Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence |             
-Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Built text preprocessing pipelines with NLTK/spaCy. Created visualizations of sentiment trends and topic distributions.
+Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Created visualizations of sentiment trends and topic distributions.
 
 [**Banking Transaction Dashboard**](https://github.com/Omensah-15/Bank_Transcaction_Insights) | Financial Data Analytics |             
-Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking. Established automated SQL database refresh connections. Implemented drill-through functionality for transaction analysis.
+Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking.
 
 [**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
 Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
