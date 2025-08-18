@@ -16,26 +16,14 @@ Data professional with hands-on experience in Machine Learning, Data Analysis, R
 
 ## Practical Experience
 
-### [FraudShield](https://github.com/Omensah-15/FraudShield)  
-Machine Learning | Financial Risk Analysis  
-- Achieved 95%+ classification accuracy for transactional fraud detection  
-- Built end-to-end pipeline from data preprocessing to model deployment  
-- Implemented feature engineering to identify high-risk transaction patterns  
+[**FraudShield**](https://github.com/Omensah-15/FraudShield) | Risk & Fraud Analytics  
+Developed machine learning system with 95%+ accuracy for fraud detection. Built end-to-end data pipelines and deployed production-ready models. Implemented feature engineering for high-risk pattern identification. Optimized performance via hyperparameter tuning and ensemble methods.
 
-### [Sentiment Analysis](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback)  
-NLP | Customer Experience  
-- Processed 10,000+ customer reviews using NLTK and spaCy  
-- Developed sentiment scoring system with 89% agreement with human raters  
-- Visualized trends to guide product improvement strategies  
+[**Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence  
+Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Built text preprocessing pipelines with NLTK/spaCy. Created visualizations of sentiment trends and topic distributions.
 
-### [Banking Transaction Dashboard](https://github.com/Omensah-15/Bank_Transcaction_Insights)  
-Power BI | Financial Analytics  
-- Automated monitoring of 1M+ monthly transactions  
-- Reduced report generation time by 65% through optimized DAX queries  
-- Implemented drill-down capabilities for root cause analysis  
+[**Banking Transaction Dashboard**](https://github.com/Omensah-15/Bank_Transcaction_Insights) | Financial Data Analytics  
+Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking. Established automated SQL database refresh connections. Implemented drill-through functionality for transaction analysis.
 
-### [Inventory Manager](https://github.com/Omensah-15/Inventory-Manager)  
-Full-Stack Data System  
-- Integrated SQLite database with Python analytics pipelines  
-- Designed role-based access control for operational security  
-- Reduced stock-out incidents by 40% through predictive alerts  
+[**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems  
+Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
