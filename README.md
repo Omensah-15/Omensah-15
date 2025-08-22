@@ -3,7 +3,7 @@
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15) | 📞 +233 25 755 6147
 
 ## About Me  
-Data professional with hands-on experience in Machine Learning, Data Analysis, Risk & Fraud Analytics, and Business Intelligence. Skilled in detecting fraud, assessing credit risks, analyzing customer behavior, monitoring network anomalies, and building interactive dashboards for actionable business insights.
+Data Scientist and Machine Learning Engineer with proven experience in building predictive models and end-to-end applications for high-stakes domains. I specialize in fraud detection, risk analytics, and transforming complex data into actionable business intelligence. My core strength lies in implementing production-ready solutions—from concept to deployment—that enhance security, reduce financial loss, and drive strategic decisions.
 
 
 ## Technical Skills  
@@ -11,8 +11,7 @@ Data professional with hands-on experience in Machine Learning, Data Analysis, R
 - **Programming & Databases:** Python, SQL  
 - **ML & Data Analytics:** Scikit-learn, Pandas, NumPy  
 - **Visualization & BI:** Power BI, Excel, Matplotlib  
-- **Tools & Workflow:** Git, Jupyter Notebook, VS Code  
-
+- **Tools & Frameworks:** Jupyter, Streamlit, Power BI, Scikit-learn, Pandas, NumPy, Matplotlib, OpenCV, SuperPoint, VS Code
 
 ## Practical Experience
 
