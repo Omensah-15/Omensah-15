@@ -11,7 +11,7 @@ Data Scientist and Machine Learning Engineer with proven experience in building 
 - **Programming & Databases:** Python, SQL  
 - **ML & Data Analytics:** Scikit-learn, Pandas, NumPy  
 - **Visualization & BI:** Power BI, Excel, Matplotlib  
-- **Tools & Frameworks:** Jupyter, Streamlit, Power BI, Scikit-learn, Pandas, NumPy, Matplotlib, OpenCV, SuperPoint, VS Code
+- **Tools & Frameworks:** Jupyter, Streamlit, Power BI, OpenCV, SuperPoint, VS Code
 
 ## Practical Experience
 
