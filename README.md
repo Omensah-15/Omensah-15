@@ -27,5 +27,5 @@ Designed interactive Power BI dashboard monitoring transaction metrics. Enabled 
 [**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
 Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
 
-[****]()
+[****](https://github.com/Omensah-15/Image-Based-Anti-Counterfeit-Detection-with-SuperPoint)
 Developed a computer vision system with SuperPoint deep learning to verify product authenticity by detecting nano-level security patterns on labels and packaging — reducing counterfeit risk and enhancing brand protection for businesses.
