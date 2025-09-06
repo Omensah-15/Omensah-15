@@ -1,5 +1,5 @@
 # Obed Mensah  
-🎓 Telecommunication Engineering | 📊 Data Scientist | Risk & Fraud Analytics | Telecom & Financial Data Insights  
+🎓 Telecommunication Engineering | 📊 Data Scientist | Data Engineer | Risk & Fraud Analytics | FinTech & AI Solutions
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15) | 📞 +233 25 755 6147
 
 ## About Me  
