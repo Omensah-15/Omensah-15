@@ -15,7 +15,8 @@ Data Scientist and Machine Learning Engineer with proven experience in building 
 
 ## Practical Experience
 
-[**Credit Risk Verification System**]() | Financial Risk Management |   Developed a production-ready platform for fraud-resistant credit assessments,enabling faster, data-driven lending decisions. Integrated local blockchain-backed verification and interactive dashboards to ensure transparency and reduce financial risk.
+[**Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) |Financial Risk Management|   
+Developed a production-ready platform for fraud-resistant credit assessments,enabling faster, data-driven lending decisions. Integrated local blockchain-backed verification and interactive dashboards to ensure transparency and reduce financial risk.
 
 [**FraudShield**](https://github.com/Omensah-15/FraudShield) | Risk & Fraud Analytics |                            
 Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data pipelines, applied feature engineering, and optimized models with hyperparameter tuning and ensembles.
