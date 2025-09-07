@@ -18,17 +18,14 @@ Data Scientist and Machine Learning Engineer with proven experience in building 
 [**Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) |Financial Risk Management|   
 Developed a production-ready platform for fraud-resistant credit assessments,enabling faster, data-driven lending decisions. Integrated local blockchain-backed verification and interactive dashboards to ensure transparency and reduce financial risk.
 
+[**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
+Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
+
 [**FraudShield**](https://github.com/Omensah-15/FraudShield) | Risk & Fraud Analytics |                            
 Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data pipelines, applied feature engineering, and optimized models with hyperparameter tuning and ensembles.
 
-[**Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence |             
+[**E-Commerce Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence |             
 Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Created visualizations of sentiment trends and topic distributions.
 
 [**Banking Transaction Dashboard**](https://github.com/Omensah-15/Bank_Transcaction_Insights) | Financial Data Analytics |             
 Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking.
-
-[**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
-Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
-
-[**Image-Based Anti Counterfeit Detection with SuperPoint**](https://github.com/Omensah-15/Image-Based-Anti-Counterfeit-Detection-with-SuperPoint) | Computer Vision | Deep Learning | Image Processing |            
-Developed a computer vision system with SuperPoint deep learning to verify product authenticity by detecting nano-level security patterns on labels and packaging — reducing counterfeit risk and enhancing brand protection for businesses.
