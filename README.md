@@ -15,7 +15,7 @@ Data Scientist and Machine Learning Engineer with proven experience in building 
 
 ## Practical Experience
 
-[**Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) |Financial Risk Management|   
+[**Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Risk Management |   
 Developed a production-ready platform for fraud-resistant credit assessments,enabling faster, data-driven lending decisions. Integrated local blockchain-backed verification and interactive dashboards to ensure transparency and reduce financial risk.
 
 [**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
