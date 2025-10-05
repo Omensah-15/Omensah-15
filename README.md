@@ -1,5 +1,5 @@
 # Obed Mensah  
-🎓 Full-Stack Data Scientist | Software Engineer| Risk & Fraud Analytics | FinTech & AI Solutions | End-to-End Data Pipelines & ML Deployment
+🎓 Full-Stack Data Scientist | Software Engineer | Risk & Fraud Analytics | FinTech & AI Solutions | End-to-End Data Pipelines & ML Deployment
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15)
 
 ## About Me  
