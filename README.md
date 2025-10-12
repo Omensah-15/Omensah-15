@@ -23,6 +23,9 @@ Built end-to-end solution with SQLite database and analytics pipelines. Develope
 [**FraudShield**](https://github.com/Omensah-15/FraudShield) | Risk & Fraud Analytics |                            
 Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data pipelines, applied feature engineering, and optimized models with hyperparameter tuning and ensembles.
 
+[AI-Driven Syndromic Surveillance System with IoT Environmental Correlation]() | Public Health Technology |
+Built a machine learning platform for real-time epidemic detection using NLP analysis of health reports and environmental sensor fusion.Achieved 87% outbreak prediction accuracy by correlating syndromic patterns with IoT sensor data, enabling early intervention through geospatial hotspot mapping and automated risk stratification.
+
 [**E-Commerce Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence |             
 Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Created visualizations of sentiment trends and topic distributions.
 
