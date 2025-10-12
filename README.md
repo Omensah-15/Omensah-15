@@ -1,5 +1,5 @@
 # Obed Mensah  
-🎓 Full-Stack Data Scientist | Software Engineering | Risk & Fraud Analytics | FinTech & AI Solutions | End-to-End Data Pipelines & ML Deployment
+🎓 Full-Stack Data Scientist | Software Engineering | Risk & Fraud Analytics | AI Solutions | End-to-End Data Pipelines & ML Deployment
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15)
 
 ## About Me  
@@ -25,9 +25,6 @@ Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data p
 
 [AI-Driven Syndromic Surveillance System with IoT Environmental Correlation](https://github.com/Omensah-15/Syndromic-AI-Epidemic-Alert-System) | Public Health Technology |
 Built a machine learning platform for real-time epidemic detection using NLP analysis of health reports and environmental sensor fusion.Achieved 87% outbreak prediction accuracy by correlating syndromic patterns with IoT sensor data, enabling early intervention through geospatial hotspot mapping and automated risk stratification.
-
-[**E-Commerce Sentiment Analysis**](https://github.com/Omensah-15/SentimentAnalysisofCustomerFeedback) | Customer Intelligence |             
-Applied NLP to analyze customer reviews and feedback. Delivered actionable sentiment insights for marketing strategies. Created visualizations of sentiment trends and topic distributions.
 
 [**Banking Transaction Dashboard**](https://github.com/Omensah-15/Bank_Transcaction_Insights) | Financial Data Analytics |             
 Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking.
