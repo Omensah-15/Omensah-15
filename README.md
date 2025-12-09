@@ -1,6 +1,5 @@
 # Obed Mensah  
-Systems Engineer | Business Process Automation | Financial & Threat Risk Intelligence
-📍 Ghana | 📧 heavenzlebron7@gmail.com |
+Systems Engineer | Business Process Automation | Financial & Threat Risk Intelligence |
 
 ## About Me  
 I specialize in designing intelligent systems that turn complex business challenges into scalable, data-driven solutions. My focus is on automating operations, optimizing processes, and enhancing decision-making—bridging analytical insights with operational execution. I deliver end-to-end solutions that boost efficiency, ensure compliance, and strengthen organizational resilience.
