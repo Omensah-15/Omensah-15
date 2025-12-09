@@ -3,7 +3,7 @@
 📍 Ghana | 📧 heavenzlebron7@gmail.com | 🔗 [GitHub](https://github.com/Omensah-15)
 
 ## About Me  
-Data Scientist and Software Engineer with expertise in developing predictive models and end-to-end applications for high-impact domains. Specialized in fraud detection, credit risk analytics, and blockchain-inspired verification systems. Proven ability to design and deploy production-ready solutions that ensure data integrity, strengthen security, reduce financial losses, and support data-driven strategic decisions.
+I specialize in designing intelligent systems that turn complex business challenges into scalable, data-driven solutions. My focus is on automating operations, optimizing processes, and enhancing decision-making—bridging analytical insights with operational execution. I deliver end-to-end solutions that boost efficiency, ensure compliance, and strengthen organizational resilience.
 
 ## Technical Skills  
 
