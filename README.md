@@ -7,7 +7,7 @@ I specialize in designing intelligent systems that turn complex business challen
 ## Technical Skills  
 
 - **Programming & Databases:** Python, SQL (SQLite, PostgreSQL), APIs (REST)  
-- **ML & Data Analytics:** Scikit-learn, Pandas, NumPy, LightGBM, Optuna   
+- **ML & Data Analytics:** AI/ML & Data Science: Scikit-learn, XGBoost/LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP   
 - **Visualization & BI:** Power BI, Excel, Matplotlib  
 - **Tools & Frameworks:** Jupyter, Streamlit, Power BI, OpenCV, SuperPoint, VS Code, Blockchain (SHA256 Hashing)
 
