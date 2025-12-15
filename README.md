@@ -10,7 +10,7 @@ Systems Engineer specializing in designing and deploying intelligent data platfo
 - **AI/ML & Data Science:** Scikit-learn, XGBoost/LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP
 - **Big Data & Engineering:** ETL/Data Pipelines, Streamlit, Jupyter
 - **Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn 
-- **Tools & Frameworks:** Git, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing (SHA-256)
+- **Tools & Frameworks:** Git, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing/SHA-256
 
 ## Practical Experience
 
