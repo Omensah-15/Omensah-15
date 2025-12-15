@@ -1,4 +1,4 @@
-# Obed Mensah  
+# 👨‍💻 Obed Mensah  
 Systems Engineer | AI & Big Data | Risk & Fraud Intelligence
 
 ## About Me  
