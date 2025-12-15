@@ -2,7 +2,7 @@
 Systems Engineer | AI & Big Data | Risk & Fraud Intelligence
 
 ## About Me  
-I specialize in designing intelligent systems that turn complex business challenges into scalable, data-driven solutions. My focus is on automating operations, optimizing processes, and enhancing decision-making—bridging analytical insights with operational execution. I deliver end-to-end solutions that boost efficiency, ensure compliance, and strengthen organizational resilience.
+Systems Engineer specializing in designing and deploying intelligent data platforms that automate risk intelligence and business operations. I bridge AI/ML, big data pipelines, and full-stack development to transform complex challenges into scalable, production-ready systems. My focus is on building solutions that enhance decision-making, ensure regulatory compliance, and drive measurable efficiency gains in finance, security, and public health domains.
 
 ## Technical Skills  
 
