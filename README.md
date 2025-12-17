@@ -30,4 +30,4 @@ Built ML system (95%+ accuracy) for fraud detection. Developed end-to-end data p
 Designed interactive Power BI dashboard monitoring transaction metrics. Enabled data-driven decisions through KPI tracking.
 
 [**Cleanr**](https://github.com/Omensah-15/cleanr) | Automated CSV Processing |                                                                                                                                                                                                                      
-Built CLI tool for data cleaning with pandas. Reduced manual CSV preparation time by 98% through automated deduplication & normalization.]
+Built CLI tool for data cleaning with pandas. Reduced manual CSV preparation time by 98% through automated deduplication & normalization.
