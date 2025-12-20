@@ -2,7 +2,7 @@
 Analytics Engineer | Data Infrastructure | AI & Business Intelligence
 
 ## About Me  
-Analytics Engineer building intelligent data platforms that automate risk intelligence and business operations. I bridge AI/ML, data infrastructure, and full-stack development to transform complex challenges into scalable, production systems that enhance decision-making and drive measurable efficiency gains in finance, security, and public health.
+Analytics Engineer building intelligent data platforms that automate risk intelligence and business operations. I bridge AI/ML, data infrastructure, and full-stack development to transform complex challenges into scalable, production systems that enhance decision-making and drive measurable efficiency gains in finance, security, healthcare, supply chain, and e-commerce domains.
 
 ## Technical Skills  
 
