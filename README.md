@@ -14,7 +14,8 @@ Analytics Engineer building intelligent data platforms that automate risk intell
 
 ## Practical Experience
 
-[**CleanR**](https://github.com/Omensah-15/cleanr) | Automated CSV Processing CLI  |       Built a command-line data cleaning tool using pandas that automates deduplication, normalization, and validation. Reduced manual CSV preparation time by 98%+ through one‑line processing and memory‑efficient chunking.
+[**CleanR**](https://github.com/Omensah-15/cleanr) | Automated CSV Processing CLI |
+Built a command-line data cleaning tool using pandas that automates deduplication, normalization, and validation. Reduced manual CSV preparation time by 98%+ through one‑line processing and memory‑efficient chunking.
 
 [**Inventory Manager**](https://github.com/Omensah-15/Inventory-Manager) | Full-Stack Data Systems |                         
 Built end-to-end solution with SQLite database and analytics pipelines. Developed Python scripts for automated reporting. Designed secure authentication with role-based access. Demonstrated full-stack capabilities with direct business impact.
