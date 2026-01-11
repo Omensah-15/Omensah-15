@@ -22,7 +22,7 @@ Northwind Traders database analysis. Includes ER diagram and advanced SQL querie
 
 [**CleanR**](https://github.com/Omensah-15/cleanr) | Automated CSV Processing CLI | Built a command-line data cleaning tool using pandas that automates deduplication, normalization, and validation. Reduced manual CSV preparation time by 98%+ through one‑line processing and memory‑efficient chunking.
 
-[**InventoryPro**]() | Full-Stack Data Platform |
+[**InventoryPro**](https://github.com/Omensah-15/Inventory-Manager-2.0) | Full-Stack Data Platform |
 Built enterprise inventory system with PostgreSQL database and analytics engine. Developed Python ETL pipelines for real-time reporting. Implemented secure authentication with role-based permissions. Deployed containerized solution with automated backups. Demonstrated production-ready full-stack development with scalable architecture.
 
 [**Banking Transaction Dashboard**](https://github.com/Omensah-15/Bank_Transcaction_Insights) | Financial Data Analytics |             
