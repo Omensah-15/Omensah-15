@@ -14,7 +14,7 @@ Building intelligent data platforms that automate business intelligence and oper
 
 ## Practical Experience
 
-[**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Technology |   
+[**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Risk Technology |   
 Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
 
 [**Northwind Database Advanced Analytics(SQL)**](https://github.com/Omensah-15/northwind-advanced-sql):
