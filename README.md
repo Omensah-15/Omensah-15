@@ -15,7 +15,7 @@ Building intelligent data platforms that automate business intelligence and oper
 ## Practical Experience
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| Computer Vision Security |                                        
-Built a forensic authentication engine that uses SuperPoint deep learning to verify document and product authenticity by detecting and matching nano-scale security patterns, with geometric validation, tamper localization, anti-spoof detection, and cryptographically signed audit trails.
+Built a 15-layer forensic document verification engine on the SuperPoint architecture. Performs keypoint extraction, RANSAC geometric consistency validation, tamper localisation, anti-spoof detection across five signal classes, and produces RSA-PSS + ECDSA signed, hash-chained audit logs with calibrated fraud probability scoring.
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Risk Technology |   
 Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
