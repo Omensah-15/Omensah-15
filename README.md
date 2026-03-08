@@ -20,7 +20,7 @@ Built a 15-layer forensic document verification engine on the SuperPoint archite
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Risk Technology |   
 Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
 
-[**CleanR**](https://github.com/Omensah-15/cleanr) | Automated CSV Processing CLI | Built a command-line data cleaning tool using pandas that automates deduplication, normalization, and validation. Reduced manual CSV preparation time by 98%+ through one‑line processing and memory‑efficient chunking.
+[**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | Intelligent Data Cleaning Engine | Built a production-grade CLI tool in Python that eliminates manual data preparation — automating deduplication, KNN imputation, type coercion, outlier detection, and format validation across CSV, Excel, JSON, and Parquet files. Reduced data cleaning time by 98%+ through one-command processing with full audit trails and SHA-256 integrity fingerprinting.
 
 [**InventoryPro**](https://github.com/Omensah-15/Inventory-Manager-2.0) | Full-Stack Data Platform |
 Built enterprise inventory system with PostgreSQL/SQLite database and analytics engine. Developed Python ETL pipelines for real-time reporting. Implemented secure authentication with role-based permissions. Deployed containerized solution with automated backups. Demonstrated production-ready full-stack development with scalable architecture.
