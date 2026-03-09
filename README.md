@@ -10,7 +10,7 @@ Building intelligent data platforms that automate business intelligence and oper
 - **AI/ML & Data Science:** Scikit-learn, XGBoost/LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP
 - **Big Data & Engineering:** ETL/Data Pipelines, Streamlit, Jupyter
 - **Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn 
-- **Tools & Frameworks:** Git, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing/SHA-256/RSA-4096/ECDSA-P384.
+- **Tools & Frameworks:** Git,Vercel, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing/SHA-256/RSA-4096/ECDSA-P384.
 
 ## Practical Experience
 
