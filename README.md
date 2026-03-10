@@ -1,5 +1,5 @@
 # 👨‍💻 Obed Mensah  
-Data & Analytics Engineer | AI Systems | Data Security | Business Intelligence
+AI & Data Systems Engineer | Data Security | Business Intelligence
 
 ## About Me  
 Building intelligent data platforms that automate business intelligence and operations. I bridge AI/ML, data infrastructure, and full-stack development to transform complex challenges into scalable, production systems that enhance decision-making and drive measurable efficiency gains across finance, security, healthcare, supply chain, e-commerce, and other data-driven domains.
