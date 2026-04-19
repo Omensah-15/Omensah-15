@@ -14,20 +14,20 @@ Building intelligent data platforms that automate business intelligence and oper
 
 ## Practical Experience
 
-[**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| Computer Vision Security |                                        
+[**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
 Built a 15-layer forensic document verification engine on the SuperPoint architecture. Performs keypoint extraction, RANSAC geometric consistency validation, tamper localisation, anti-spoof detection across five signal classes, and produces RSA-PSS + ECDSA signed, hash-chained audit logs with calibrated fraud probability scoring.
 
-[**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | Financial Risk Technology |   
+[**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
 Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
 
-[**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| AI-Powered Customer Segmentation Platform |
+[**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **AI-Powered Customer Segmentation Platform** |  
 Built an AI-powered customer segmentation platform that automatically groups customers by behavior and spending patterns using unsupervised machine learning. Eliminates the need for a data team by letting users upload customer data and query insights in plain English through a natural language chat interface.
 
-[**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | Intelligent Data Cleaning Engine |
+[**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
 Built a production-grade CLI tool in Python that eliminates manual data preparation — automating deduplication, KNN imputation, type coercion, outlier detection, and format validation across CSV, Excel, JSON, and Parquet files. Reduced data cleaning time by 98%+ through one-command processing with full audit trails and SHA-256 integrity fingerprinting.
 
-[**InventoryPro**](https://github.com/Omensah-15/Inventory-Manager-2.0) | Full-Stack Data Platform |
+[**InventoryPro**](https://github.com/Omensah-15/Inventory-Manager-2.0) | **Full-Stack Data Platform** |  
 Built enterprise inventory system with PostgreSQL/SQLite database and analytics engine. Developed Python ETL pipelines for real-time reporting. Implemented secure authentication with role-based permissions. Deployed containerized solution with automated backups. Demonstrated production-ready full-stack development with scalable architecture.
 
-[**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql):
+[**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql):  
 Reference BI architecture built on Northwind dataset demonstrating dimensional modeling, analytical SQL patterns, and performance optimization. Shows data engineering fundamentals behind every analytics platform.
