@@ -7,7 +7,7 @@ Building intelligent data platforms that automate business intelligence and oper
 ## Technical Skills  
 
 - **Programming & Databases:** Python, SQL (SQLite, PostgreSQL), APIs (REST)  
-- **AI/ML & Data Science:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP  
+- **AI/ML & Data Science:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP, LLM(OpenRouter AI)  
 - **Big Data & Engineering:** ETL/Data Pipelines, Apache Spark, Streamlit, Jupyter  
 - **Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn  
 - **Tools & Frameworks:** Git, Vercel, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing (SHA-256, RSA-4096, ECDSA-P384)  
