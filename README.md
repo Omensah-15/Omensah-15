@@ -20,8 +20,8 @@ Built a 15-layer forensic document verification engine on the SuperPoint archite
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
 Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
 
-[**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **AI-Powered Customer Segmentation Platform** |  
-Built an AI-powered customer segmentation platform that automatically groups customers by behavior and spending patterns using unsupervised machine learning. Eliminates the need for a data team by letting users upload customer data and query insights in plain English through a natural language chat interface.
+[**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **Intelligent Customer Segmentation & Analytics Engine** |  
+Built an AI powered analytics platform that converts raw customer data into actionable insights through automated schema detection, machine learning segmentation, dynamic charting, data cleaning, and natural language queries, enabling businesses to understand customer behavior in minutes.
 
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
 Built a production-grade CLI tool in Python that eliminates manual data preparation — automating deduplication, KNN imputation, type coercion, outlier detection, and format validation across CSV, Excel, JSON, and Parquet files. Reduced data cleaning time by 98%+ through one-command processing with full audit trails and SHA-256 integrity fingerprinting.
