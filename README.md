@@ -1,4 +1,4 @@
-# 👨‍💻 Obed Mensah  
+# 👨‍💻 Mensah Obed 
 Data Security & Intelligence Engineer
 
 ## About Me  
