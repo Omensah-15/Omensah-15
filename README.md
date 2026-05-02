@@ -1,10 +1,10 @@
 # 👨‍💻 Mensah Obed 
-Data Security & Intelligence Engineer
+Data Engineer | Risk & Security Systems
 
 ## About Me  
-Building intelligent data platforms that automate business intelligence and operations. I bridge AI, machine learning, data infrastructure, and full-stack development to transform complex challenges into production-ready systems designed for scalability, stronger decision-making, and measurable efficiency gains across finance, security, healthcare, supply chain, e-commerce, and other data-driven domains.
+I design and build data systems that detect risk, strengthen security, and improve decision-making in financial and operational environments.  My work combines data engineering, machine learning, and security principles to create scalable solutions such as fraud detection systems, credit risk engines, and audit-ready data pipelines.  I focus on transforming complex data into actionable intelligence that reduces financial loss, improves system reliability, and enables real-time insights.
 
-## Technical Skills  
+## Technical Skills
 
 **Data & Machine Learning:**  
 Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Feature Engineering, NLP  
