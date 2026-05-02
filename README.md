@@ -30,7 +30,9 @@ Git, Docker, Streamlit, Jupyter, VS Code, Vercel, OpenCV
 ## Practical Experience
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
-Detects forged or tampered identity documents using computer vision and geometric validation. Identifies spoofing attempts and inconsistencies through multi-layer signal analysis, reducing identity fraud risk. Generates tamper-proof audit logs using cryptographic signatures (RSA/ECDSA) for secure verification and traceability.
+- Detects forged or tampered identity documents using computer vision and geometric validation  
+- Identifies spoofing attempts through multi-layer signal analysis  
+- Generates tamper-proof audit logs using RSA/ECDSA for secure verification  
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
 Automates credit risk assessment and flags high-risk applicants using machine learning models. Reduced manual verification time by 90% while ensuring data integrity through SHA-256 cryptographic audit trails. Designed for financial systems requiring fast, reliable, and secure decision-making.
