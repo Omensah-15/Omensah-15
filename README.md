@@ -6,28 +6,37 @@ Building intelligent data platforms that automate business intelligence and oper
 
 ## Technical Skills  
 
-- **Programming & Databases:** Python, SQL (SQLite, PostgreSQL), APIs (REST)  
-- **AI/ML & Data Science:** Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, Feature Engineering, Hyperparameter Optimization (Optuna), NLP, LLM(OpenRouter AI)  
-- **Big Data & Engineering:** ETL/Data Pipelines, Apache Spark, Streamlit, Jupyter  
-- **Visualization & BI:** Power BI, Excel, Matplotlib, Seaborn  
-- **Tools & Frameworks:** Git, Vercel, VS Code, Docker, OpenCV, SuperPoint (Computer Vision), Cryptographic Hashing (SHA-256, RSA-4096, ECDSA-P384)  
+**Data & Machine Learning:**  
+Python, Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, Feature Engineering, NLP  
+
+**Data Engineering & Systems:**  
+SQL (PostgreSQL, SQLite), ETL Pipelines, Apache Spark, APIs (REST)  
+
+**Security & Cryptography:**  
+SHA-256, RSA-4096, ECDSA-P384, Audit Logging  
+
+**Visualization & BI:**  
+Power BI, Excel, Matplotlib  
+
+**Tools & Frameworks:**  
+Git, Docker, Streamlit, Jupyter, VS Code, Vercel, OpenCV  
 
 ## Practical Experience
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
-Built a 15-layer forensic document verification engine on the SuperPoint architecture. Performs keypoint extraction, RANSAC geometric consistency validation, tamper localisation, anti-spoof detection across five signal classes, and produces RSA-PSS + ECDSA signed, hash-chained audit logs with calibrated fraud probability scoring.
+Detects forged or tampered identity documents using computer vision and geometric validation. Identifies spoofing attempts and inconsistencies through multi-layer signal analysis, reducing identity fraud risk. Generates tamper-proof audit logs using cryptographic signatures (RSA/ECDSA) for secure verification and traceability.
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
-Built a machine learning platform for automated credit assessments with cryptographic data integrity protection. Reduced verification time by 90% while ensuring tamper-resistant audit trails through SHA-256 hashing and immutable storage.
+Automates credit risk assessment and flags high-risk applicants using machine learning models. Reduced manual verification time by 90% while ensuring data integrity through SHA-256 cryptographic audit trails. Designed for financial systems requiring fast, reliable, and secure decision-making.
 
 [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **Intelligent Customer Segmentation & Analytics Engine** |  
-Built an AI powered analytics platform that converts raw customer data into actionable insights through automated schema detection, machine learning segmentation, dynamic charting, data cleaning, and natural language queries, enabling businesses to understand customer behavior in minutes.
+Transforms raw customer data into actionable insights through automated segmentation and analytics. Enables businesses to understand customer behavior quickly using machine learning, data cleaning, and dynamic visualizations. Supports data-driven decision-making without requiring advanced technical expertise.
 
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
-Built a production-grade CLI tool in Python that eliminates manual data preparation — automating deduplication, KNN imputation, type coercion, outlier detection, and format validation across CSV, Excel, JSON, and Parquet files. Reduced data cleaning time by 98%+ through one-command processing with full audit trails and SHA-256 integrity fingerprinting.
+Automates data cleaning processes including deduplication, imputation, and outlier detection across multiple file formats. Reduced data preparation time by over 98% through one-command processing with full audit tracking. Ensures data integrity using SHA-256 fingerprinting for reliable downstream analysis.
 
 [**InventoryPro**](https://github.com/Omensah-15/Inventory-Manager-2.0) | **Full-Stack Data Platform** |  
-Built enterprise inventory system with PostgreSQL/SQLite database and analytics engine. Developed Python ETL pipelines for real-time reporting. Implemented secure authentication with role-based permissions. Deployed containerized solution with automated backups. Demonstrated production-ready full-stack development with scalable architecture.
+Built a full-stack inventory management system with real-time analytics and reporting. Automates stock tracking, reporting, and data pipelines to improve operational efficiency. Includes secure authentication, role-based access, and scalable database architecture.
 
 [**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql):  
-Reference BI architecture built on Northwind dataset demonstrating dimensional modeling, analytical SQL patterns, and performance optimization. Shows data engineering fundamentals behind every analytics platform.
+Demonstrates business intelligence architecture using dimensional modeling and advanced SQL analytics. Showcases how raw data is transformed into structured insights for reporting and decision-making. Highlights core data engineering and analytics principles used in real-world systems.
