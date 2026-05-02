@@ -2,11 +2,8 @@
 Data Engineer | Risk & Security Systems
 
 ## About Me  
-I design and build data systems that detect risk, strengthen security, and improve decision-making in financial and operational environments.
-
-My work combines data engineering, machine learning, and security principles to create scalable solutions such as fraud detection systems, credit risk engines, and audit-ready data pipelines.
-
-I focus on transforming complex data into actionable intelligence that reduces financial loss, improves system reliability, and enables real-time insights.
+I design and build data systems that detect risk, prevent fraud, and improve decision-making in operational environments.
+My work combines data engineering, machine learning, and security principles to build scalable solutions such as fraud detection systems, credit risk engines, and audit-ready data pipelines. I focus on transforming complex data into actionable intelligence that improves system reliability, reduces operational risk, and enables real-time insights.
 
 ## Core Focus  
 - Risk & Fraud Detection Systems  
@@ -34,19 +31,19 @@ Git, Docker, Streamlit, Jupyter, VS Code, Vercel, OpenCV
 ## Practical Experience
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
-- Detects forged or tampered identity documents using computer vision and geometric validation  
-- Identifies spoofing attempts through multi-layer signal analysis  
-- Generates tamper-proof audit logs using RSA/ECDSA for secure verification  
+- Detects forged or tampered identity documents using computer vision and geometric validation.
+- Identifies spoofing attempts through multi-layer signal analysis.  
+- Generates tamper-proof audit logs using RSA/ECDSA for secure verification. 
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
-- Automates credit risk assessment and flags high-risk applicants using ML models  
-- Reduced manual verification time by 90%  
-- Ensures data integrity through SHA-256 cryptographic audit trails  
+- Automates credit risk assessment and flags high-risk applicants using ML models.  
+- Reduced manual verification time by 90%.  
+- Ensures data integrity through SHA-256 cryptographic audit trails.  
 
 [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **Intelligent Customer Segmentation & Analytics Engine** |  
-- Transforms raw customer data into actionable insights through automated segmentation  
-- Enables faster understanding of customer behavior using ML and visualization  
-- Supports data-driven decision-making with minimal manual effort  
+- Transforms raw customer data into actionable insights through automated segmentation.  
+- Enables faster understanding of customer behavior using ML and visualization.  
+- Supports data-driven decision-making with minimal manual effort.  
 
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
 - Automates data cleaning processes including deduplication, imputation, and outlier detection across multiple file formats.
