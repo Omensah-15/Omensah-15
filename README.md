@@ -2,7 +2,11 @@
 Data Engineer | Risk & Security Systems
 
 ## About Me  
-I design and build data systems that detect risk, strengthen security, and improve decision-making in financial and operational environments.  My work combines data engineering, machine learning, and security principles to create scalable solutions such as fraud detection systems, credit risk engines, and audit-ready data pipelines.  I focus on transforming complex data into actionable intelligence that reduces financial loss, improves system reliability, and enables real-time insights.
+I design and build data systems that detect risk, strengthen security, and improve decision-making in financial and operational environments.
+
+My work combines data engineering, machine learning, and security principles to create scalable solutions such as fraud detection systems, credit risk engines, and audit-ready data pipelines.
+
+I focus on transforming complex data into actionable intelligence that reduces financial loss, improves system reliability, and enables real-time insights.
 
 ## Core Focus  
 - Risk & Fraud Detection Systems  
