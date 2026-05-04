@@ -1,5 +1,5 @@
 # 👨‍💻 Mensah Obed 
-Data Engineer | Risk & Security Systems
+Data Engineer | Security & Risk Intelligence Systems
 
 ## About Me  
 I design and build data systems that detect risk, prevent fraud, and improve decision-making in operational environments.
