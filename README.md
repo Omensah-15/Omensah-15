@@ -1,11 +1,11 @@
 # 👨‍💻 Mensah Obed 
-Data Engineer | Security & Risk Intelligence Systems
+Data Engineer | Security & Intelligent Data Systems
 
 ## About Me  
-Software and Data Engineer building reliable systems and data-driven solutions for real-world problems.
+Software and Data Engineer building reliable, data-driven systems to solve real-world problems.
 
 ## Core Focus  
-- Risk & Fraud Detection
+- Risk & Fraud Detection Systems
 - Data Engineering & Pipelines  
 - Security & Audit Systems  
 - Software & Intelligent Solutions
