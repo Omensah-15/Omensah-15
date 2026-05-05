@@ -1,5 +1,5 @@
 # 👨‍💻 Mensah Obed 
-Data Engineer | Security & Intelligent Data Systems
+Data Engineer | Security & Intelligent Systems
 
 ## About Me  
 Software and Data Engineer building reliable, data-driven systems to solve real-world problems.
