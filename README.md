@@ -22,7 +22,10 @@ SQL (PostgreSQL, SQLite), ETL Pipelines, Apache Spark, APIs (REST)
 SHA-256, RSA-4096, ECDSA-P384, Audit Logging  
 
 **Visualization & BI:**  
-Power BI, Excel, Matplotlib  
+Power BI, Excel, Matplotlib
+
+**OS:**
+Linux, Windows
 
 **Tools & Frameworks:**  
 Git, Docker, Streamlit, Jupyter, VS Code, Vercel, OpenCV  
