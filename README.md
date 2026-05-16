@@ -34,16 +34,10 @@ Git, Docker, FastAPI, React, Vite, Streamlit, Jupyter, VS Code, Vercel, Render, 
 ## Practical Experience
 
 [**TropiCare**](https://github.com/Omensah-15/TropiCare_)| **AI-Powered Healthcare Assessment Platform** |
-- Built a full-stack intelligent healthcare platform for symptom assessment and medical risk analysis.
-- Developed a responsive hospital-grade interface using React and Vite with production-ready UX/UI principles.
-- Engineered a FastAPI backend supporting secure authentication, patient sessions, and AI-assisted health recommendations.
-- Integrated intelligent disease prediction workflows, dynamic symptom analysis, and personalized health guidance systems.
-- Deployed scalable frontend and backend infrastructure using Vercel and Render.
+AI-assisted healthcare assessment platform for symptom analysis, disease risk prediction, and personalized health guidance. Built with a full-stack architecture using React and FastAPI, integrating intelligent decision workflows and secure patient session management for scalable healthcare support systems.
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
-- Detects forged or tampered identity documents using computer vision and geometric validation.
-- Identifies spoofing attempts through multi-layer signal analysis.  
-- Generates tamper-proof audit logs using RSA/ECDSA for secure verification. 
+Computer vision–based identity verification system for detecting forged or tampered documents using geometric validation and multi-layer image analysis. Implements secure audit logging with RSA/ECDSA to ensure verifiable and tamper-resistant authentication records.
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
 - Automates credit risk assessment and flags high-risk applicants using ML models.  
@@ -51,16 +45,10 @@ Git, Docker, FastAPI, React, Vite, Streamlit, Jupyter, VS Code, Vercel, Render, 
 - Ensures data integrity through SHA-256 cryptographic audit trails.
 
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
-- Automates data cleaning processes including deduplication, imputation, and outlier detection across multiple file formats.
-- Reduced data preparation time by over 98% through one-command processing with full audit tracking.
-- Ensures data integrity using SHA-256 fingerprinting for reliable downstream analysis.
+Automated data cleaning and preprocessing engine that handles deduplication, missing value imputation, and outlier detection across multiple data formats. Features one-command execution with full audit tracking and cryptographic fingerprinting for data integrity assurance.
 
 [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)| **Intelligent Customer Segmentation & Analytics Engine** |  
-- Transforms raw customer data into actionable insights through automated segmentation.  
-- Enables faster understanding of customer behavior using ML and visualization.  
-- Supports data-driven decision-making with minimal manual effort.  
+Customer intelligence and segmentation engine that transforms raw behavioral data into structured insights using machine learning. Enables automated clustering, pattern detection, and visualization to support data-driven business decision-making.
 
 [**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql):  
-- Demonstrates business intelligence architecture using dimensional modeling and advanced SQL analytics.
-- Showcases how raw data is transformed into structured insights for reporting and decision-making.
-- Highlights core data engineering and analytics principles used in real-world systems.
+Enterprise-style business intelligence system demonstrating dimensional modeling, advanced SQL analytics, and structured data transformation. Converts raw transactional data into optimized analytical models for reporting, decision support, and performance insights.
