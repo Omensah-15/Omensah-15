@@ -40,9 +40,7 @@ AI-assisted healthcare assessment platform for symptom analysis, disease risk pr
 Computer vision–based identity verification system for detecting forged or tampered documents using geometric validation and multi-layer image analysis. Implements secure audit logging with RSA/ECDSA to ensure verifiable and tamper-resistant authentication records.
 
 [**AI Credit Risk Verification System with Cryptographic Audit Trail**](https://github.com/Omensah-15/credit-risk-verification-system-) | **Financial Risk Technology** |   
-- Automates credit risk assessment and flags high-risk applicants using ML models.  
-- Reduced manual verification time by 90%.  
-- Ensures data integrity through SHA-256 cryptographic audit trails.
+Machine learning–driven credit risk assessment system that automates applicant evaluation and flags high-risk profiles. Integrates predictive modeling with SHA-256 cryptographic audit trails to ensure data integrity, transparency, and traceable decision-making.
 
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) | **Intelligent Data Cleaning Engine** |  
 Automated data cleaning and preprocessing engine that handles deduplication, missing value imputation, and outlier detection across multiple data formats. Features one-command execution with full audit tracking and cryptographic fingerprinting for data integrity assurance.
