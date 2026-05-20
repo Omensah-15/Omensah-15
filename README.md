@@ -29,7 +29,7 @@ Power BI, Excel, Matplotlib
 Linux, Windows
 
 **Tools & Frameworks:**  
-Git, Docker, FastAPI, React, Vite, Streamlit, Jupyter, VS Code, Vercel, Render, OpenCV
+Git, Docker, FastAPI, React, Vite, Streamlit, Jupyter, VS Code, Vercel, Render, OpenCV, AWS
 
 ## Practical Experience
 
