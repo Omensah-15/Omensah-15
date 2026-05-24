@@ -5,12 +5,12 @@ Software & Data Engineer | Intelligent Systems
 Software and Data Engineer building intelligent, scalable, and data-driven systems that solve real-world problems across finance, healthcare, security, analytics, and automation.
 
 ## Core Focus
-- AI Healthcare & Risk Intelligence Systems  
 - Fraud Detection & Security Engineering  
 - Data Engineering & Scalable Pipelines  
 - Auditable, Secure Data Systems  
 - Intelligent Software Platforms  
-
+- AI Healthcare & Risk Intelligence Systems
+  
 ## Technical Skills
 
 **Data & Machine Learning:**  
