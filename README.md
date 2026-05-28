@@ -33,7 +33,7 @@ Git, Docker, FastAPI, React, Vite, Streamlit, Jupyter, VS Code, Vercel, Render, 
 
 ## Practical Experience
 
-[**TropiCare**](https://github.com/Omensah-15/TropiCare_) | **AI-Powered Healthcare Assessment Platform** |  
+[**TropiCare**](https://github.com/Omensah-15/TropiCare_) | **AI Healthcare Assessment Platform** |  
 AI-assisted healthcare assessment platform for symptom analysis, disease risk prediction, and personalized health guidance. Built with a full-stack architecture using React and FastAPI, integrating intelligent decision workflows.
 
 [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)| **Computer Vision Security** |                                        
