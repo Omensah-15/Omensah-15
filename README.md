@@ -31,8 +31,8 @@ Software and Data Engineer building intelligent, scalable, and data-driven syste
 
 ## Practical Experience
 
-[**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine) - Computer Vision Security.  
 [**TropiCare**](https://github.com/Omensah-15/TropiCare_) - AI Healthcare Assessment Platform.  
+[**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine) - Computer Vision Security.  
 [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) - Financial Risk Technology.  
 [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI) - Intelligent Customer Segmentation & Analytics Engine.  
 [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) - Intelligent Data Cleaning Engine.  
