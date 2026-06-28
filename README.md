@@ -31,9 +31,9 @@ Software and Data Engineer building intelligent, scalable, and data-driven syste
 
 ## Practical Experience
 
-[**TropiCare**](https://github.com/Omensah-15/TropiCare_) - AI Healthcare Assessment Platform.  
-[**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine) - Computer Vision Security.  
-[**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-) - Financial Risk Technology.  
-[**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI) - Intelligent Customer Segmentation & Analytics Engine.  
-[**CleanR v3**](https://github.com/Omensah-15/CleanR-v3) - Intelligent Data Cleaning Engine.  
-[**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql) - Enterprise Analytics & SQL Modeling.  
+AI Healthcare Assessment Platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
+Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
+Financial Risk Technology - [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-)  
+Intelligent Customer Segmentation & Analytics Engine - [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)  
+Intelligent Data Cleaning Engine - [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3)  
+Enterprise Analytics & SQL Modeling - [**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql)
