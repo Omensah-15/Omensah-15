@@ -2,7 +2,7 @@
 Software & Data Engineer | Systems Engineer
 
 ## About Me  
-Software and Data Engineer building scalable systems for finance, healthcare, security, analytics, and automation. Focused on reliable data systems, risk analysis, and operational software systems.
+Software and Data Engineer building operational software systems for real-world data problems across finance, healthcare, security, analytics, and automation.
 
 ## Core Focus
 - Fraud Detection & Security Systems  
