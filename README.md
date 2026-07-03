@@ -1,15 +1,16 @@
-# 👨‍💻 Mensah Obed 
-Software & Data Engineer | AI & Intelligent Systems
+# 👨‍💻 Mensah Obed  
+Software & Data Engineer | Systems Engineer
 
 ## About Me  
-Software and Data Engineer building intelligent, scalable, and data-driven systems that solve real-world problems across finance, healthcare, security, analytics, and automation.
+Software and Data Engineer building scalable systems for finance, healthcare, security, analytics, and automation. Focused on reliable data systems, risk analysis, and production-ready software.
 
 ## Core Focus
-- Fraud Detection & Security Engineering
-- Data Engineering & Scalable Pipelines
-- Auditable & Secure Systems
-- Intelligent Software Platforms
-- AI Healthcare & Risk Intelligence
+- Fraud Detection & Security Systems  
+- Data Engineering & Pipelines  
+- Secure & Auditable Systems  
+- Risk & Financial Systems  
+- Healthcare & Data Platforms
+
 
 ## Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
