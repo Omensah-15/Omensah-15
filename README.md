@@ -4,6 +4,16 @@ Software & Data Engineer | Systems Engineer
 ## About Me  
 Software and Data Engineer building operational software systems for real-world data problems across finance, healthcare, security, analytics, and automation.
 
+## Practical Experience
+
+AI Healthcare Assessment Platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
+Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
+Intelligent Data Cleaning Engine - [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3)  
+Financial Risk Technology - [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-)  
+Intelligent Customer Segmentation & Analytics Engine - [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)   
+Enterprise Analytics & SQL Modeling - [**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql)
+
+
 ## Core Focus
 - Fraud Detection & Security Systems  
 - Data Engineering & Pipelines  
@@ -29,12 +39,3 @@ Software and Data Engineer building operational software systems for real-world 
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
-## Practical Experience
-
-AI Healthcare Assessment Platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
-Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
-Intelligent Data Cleaning Engine - [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3)  
-Financial Risk Technology - [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-)  
-Intelligent Customer Segmentation & Analytics Engine - [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)   
-Enterprise Analytics & SQL Modeling - [**Northwind BI Architecture**](https://github.com/Omensah-15/northwind-advanced-sql)
