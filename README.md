@@ -6,7 +6,7 @@ Software and Data Engineer building operational software systems for real-world 
 
 ## Practical Experience
 
-AI Healthcare Assessment Platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
+AI healthcare consultation platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
 Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
 Intelligent Data Cleaning Engine - [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3)  
 Financial Risk Technology - [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-)  
