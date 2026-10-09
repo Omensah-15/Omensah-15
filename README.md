@@ -2,7 +2,7 @@
 Software Engineer | AI Security & Application Security
 
 ## About Me  
-Software and Data Engineer building, deploying, and maintaining reliable software and intelligent data systems for real-world problems across healthcare, finance, security, analytics, and automation.
+Software and Data Engineer building reliable software, intelligent data systems, and security-focused applications. Interested in AI security, application security, and developing practical solutions to real-world problems across healthcare, finance, and automation.
 
 ## Practical Experience
 
