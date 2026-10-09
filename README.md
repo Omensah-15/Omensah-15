@@ -6,12 +6,9 @@ Software and Data Engineer building, deploying, and maintaining reliable softwar
 
 ## Practical Experience
 
-AI healthcare consultation platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
-Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
 SecureAI - [**SecureAI**](https://github.com/Omensah-15/SecureAI)  
-Intelligent Data Cleaning Engine - [**CleanR v3**](https://github.com/Omensah-15/CleanR-v3)  
-Financial Risk Technology - [**AI Credit Risk Verification System**](https://github.com/Omensah-15/credit-risk-verification-system-)  
-Intelligent Customer Segmentation & Analytics Engine - [**InsightForge AI**](https://github.com/Omensah-15/InsightForge-AI)   
+Computer Vision Security - [**Forensic ID Authentication Engine**](https://github.com/Omensah-15/Forensic-ID-Authentication-Engine)  
+AI healthcare consultation platform - [**TropiCare**](https://github.com/Omensah-15/TropiCare_)  
 
 ## Tech Stack:
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
