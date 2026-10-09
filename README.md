@@ -1,5 +1,5 @@
 # 👨‍💻 Mensah Obed  
-Software & Data Engineer | Systems Engineer
+Software & Data Engineer | AI Security
 
 ## About Me  
 Software and Data Engineer building, deploying, and maintaining reliable software and intelligent data systems for real-world problems across healthcare, finance, security, analytics, and automation.
