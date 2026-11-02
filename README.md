@@ -1,5 +1,5 @@
 # 👨‍💻 Mensah Obed  
-Software Engineer | AI Security & Application Security
+Software Engineer | Digital 
 
 ## About Me  
 Software and Data Engineer building reliable software, intelligent data systems, and security-focused applications. Interested in AI security, application security, and developing practical solutions to real-world problems across healthcare, finance, and automation.
